@@ -15,7 +15,8 @@ print("Value of int_var = ",int_var," - Result Done !!")
 print("Value of float_var = ",float_var," - Result Done !!")
 print("Value of string_var = ",string_var," - Result Done !!")
 print("Value of bool_var = ",bool_var," - Result Done !!")
-
+___________________________________________________________________
+Exapmle:
 a = 3
 b = 10.5
 c = a+b
